@@ -2,10 +2,10 @@
 
 ## Education
 #### FPT university (*2020 - 2024*)
-- Bachelor degree in Software Engineering
+- Bachelor Degree in Software Engineering
 
 #### Tunghai University (*2025 - 2027*)
-- Master degree in Business Administration
+- Master Degree in Business Administration
 
 ## Experience
 - Worked as a software engineer at FPT Software(2024 - 2025)
